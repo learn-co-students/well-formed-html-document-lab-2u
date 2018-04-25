@@ -5,7 +5,7 @@
 1. Add an appropriate `doctype` tag at the top of an HTML file.
 2. Enclose the HTML contents of a site inside `html` tags.
 3. Structure an HTML document with `head` and `body` tags.
-4. Add `title` tags to give the page a title that will show up in the browser
+4. Add `title` tags to give the page a title that will show up in the browserdsafojasfjioadsjoi
    tab.
 
 ## Instructions
